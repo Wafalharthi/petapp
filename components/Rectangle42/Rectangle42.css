@@ -1,0 +1,37 @@
+.rectangle-42 {
+  -webkit-backdrop-filter: blur(2px) brightness(97%);
+  backdrop-filter: blur(2px) brightness(97%);
+  background-color: var(--geyser);
+  border-radius: 133px;
+  box-shadow: 0px 3px 20px #00000057;
+  height: 1045px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 1125px;
+}
+.rectangle-5.rectangle-42 {
+  background-color: var(--white-2);
+  border-radius: unset;
+  box-shadow: 0px 1px 20px #cecece4d;
+  height: 280px;
+  top: 150px;
+}
+.rectangle-9.rectangle-42 {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: unset;
+  border-radius: unset;
+  box-shadow: 0px 1px 20px #cecece3d;
+  height: 262px;
+  top: 2324px;
+}
+.rectangle.rectangle-42 {
+  -webkit-backdrop-filter: unset;
+  backdrop-filter: unset;
+  background-color: unset;
+  border-radius: unset;
+  box-shadow: unset;
+  height: 132px;
+  left: 0;
+}
